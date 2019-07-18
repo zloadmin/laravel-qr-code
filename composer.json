@@ -10,7 +10,7 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "zloadmin/qr-code": "^2.1"
+        "zloadmin/qr-code": "dev-master"
     },
     "autoload": {
         "psr-4": {
